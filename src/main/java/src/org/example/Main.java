@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        final String URL = "jdbc:mysql://localhost:3306/ap-canin", LOGIN = "root", PASSWORD = "";
+        final String URL = "jdbc:mysql://localhost:3306/apcanin", LOGIN = "root", PASSWORD = "";
 
         try {
 

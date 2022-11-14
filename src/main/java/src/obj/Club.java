@@ -1,6 +1,5 @@
 package src.obj;
 
-import com.mysql.cj.PreparedQuery;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
